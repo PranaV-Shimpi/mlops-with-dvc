@@ -2,6 +2,7 @@
 
 The project is designed to for a talk at #devfestindia-2020
 
+
 ## Topics to be convered
 
 1. Data versioning
@@ -68,7 +69,7 @@ dvc push -r gdrive
 
 ---
 
-## DVC Notes
+## DVC Notes (pipeline)
 
 > How is the pipeline created?
 
